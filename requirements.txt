@@ -1,0 +1,10 @@
+langchain
+google-genai
+langchain-google-genai
+chromadb
+tiktoken
+streamlit
+langchain-community
+pypdf
+unstructured
+langgraph
